@@ -1,4 +1,5 @@
 My CS50's Introduction to Programming with Python Projects
+
 Welcome to my repository for Harvard's CS50P course! This repository contains all of my solutions for the problem sets and my final project, completed as part of my journey to learn Python. Each folder in this repository corresponds to a specific problem set from the course, demonstrating the concepts and skills I learned each week.
 
 About This Course
